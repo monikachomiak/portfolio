@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+}
+
+.NavLinks {
+      color: coral;
+      justify-content:end;
+  }
+
+#portrait {
+    width: 25%;
+    height: auto;
+}
+
+#hubble {
+    width: 40%;
+    height: auto;
+}
+
+.image-stack {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    position: relative;
+}
+
+#runbuddy {
+    width: 75%;
+    height: auto;
+}
+
+
+ 
+  
+ 
