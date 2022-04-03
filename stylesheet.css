@@ -14,6 +14,9 @@ header {
     justify-content: space-between;
     background-color: black;
     color: whitesmoke;
+    font-size: large;
+    padding: 3%;
+    margin: auto;
 }
 
 .NavLinks {
@@ -28,25 +31,60 @@ ul {
     padding: 0%;
 }
 
+
 #portrait {
-    width: 25%;
+    width: 45%;
     height: auto;
 }
 
 #hubble {
-    width: 40%;
+    width: 60%;
     height: auto;
 }
 
 .image-stack {
     display: grid;
-    grid-template-columns: repeat(12, 1fr);
     position: relative;
+    grid-template-columns: repeat(12, 1fr);
+}
+
+.image-stack_item--bottom {
+    grid-column: 4 / -1;
+    grid-row: 1;
+  }
+  
+.image-stack_item--top {
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    padding-top: 20%; 
+    z-index: 1; 
+  }
+  
+  img {
+    width: 100%;
+    display: block;
+  }
+
+.about-me-bio {
+    padding: 10%;
+}
+
+.my-projects {
+    padding: 10%;
+}
+
+.my-resume {
+    padding: 10%;
+}
+
+.contact-me {
+    padding: 10%;
 }
 
 #runbuddy {
-    width: 35%;
+    width: 50%;
     height: auto;
+    border-style: double;
 }
 
 
