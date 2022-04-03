@@ -6,19 +6,27 @@
 
 body {
     color: black;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
 
-  header {
+header {
     display: flex;
     justify-content: space-between;
-    background-color: blueviolet;
+    background-color: black;
+    color: whitesmoke;
 }
 
 .NavLinks {
-      color: coral;
-      justify-content:end;
+      color: lavender;
+      justify-content:space-between;
+      flex-direction: row;
   }
+
+ul {
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+}
 
 #portrait {
     width: 25%;
@@ -37,7 +45,7 @@ body {
 }
 
 #runbuddy {
-    width: 75%;
+    width: 35%;
     height: auto;
 }
 
