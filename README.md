@@ -4,24 +4,24 @@ Monika Chomiak's Portfolio
 
 # Project Description
 
-
+This portfolio is intended to provide potential employers with more information about me. There are 4 sections total in this portfolio: First, an About Me section which details who I am. Second, a Projects section, which showcases my work throughout this bootcamp. Thirdly, a section that will link to my resume. Lastly, a section inclusing my contact information. 
 
 # Expected Behavior
 
-When a user opens the page, multiple images will appear as you continue to scroll down the page. Each image has an alt text with a short desription.
-
-When a user opens the page,they will see 3 content elements horizontally listed in the header: Social Media Marketing, Online Reputation Management, and Search Engine Optimization. Clicking on any one of these elements will direct you to that specific section on the web page.
+When a user opens the page, they will see a navigation bar on the right side of the header that displays 4 links: About Me, Projects, Resume, and Contact Me. When clicking on any one of these links, the UI will direct them to that section of the page.
 
 When a user views the page, they will find that the HTML elements meet accessibility standards and fall in sequential order.
 
+When a user views the page, they will be able to click on the image of my Run Buddy project and be redirected to that website.
+
+When a user views the page, they will find my contact information at the bottom. If they click on my email address, they will be promted to their desginated email serve to send me a message.
+
 # Deploy Link
 
+https://monikachomiak.github.io/portfolio/
 
 
-# Screenshot of Portfolio in Browser
-
-
-
+# License
 
 MIT License
 
