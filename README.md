@@ -4,7 +4,7 @@ Monika Chomiak's Portfolio
 
 # Project Description
 
-This portfolio is intended to provide potential employers with more information about me. There are 4 sections total in this portfolio: First, an About Me section which details who I am. Second, a Projects section, which showcases my work throughout this bootcamp. Thirdly, a section that will link to my resume. Lastly, a section inclusing my contact information. 
+This portfolio is intended to provide potential employers with more information about me. There are 4 sections total in this portfolio: First, an About Me section which details who I am. Second, a Projects section, which showcases my work throughout this bootcamp. Thirdly, a section that will link to my resume. Lastly, a section including my contact information. 
 
 # Expected Behavior
 
